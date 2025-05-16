@@ -6,7 +6,7 @@ A full-stack web application that enables users to sign up, log in, and access a
 
 ## 🔗 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-blue?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-blue?style=for-the-badge)](https://drive.google.com/file/d/1JXVJuFttKtwgQHi4oX1V4RvBA8xwemN8/view?usp=sharing)
 
 ---
 
@@ -34,17 +34,17 @@ A full-stack web application that enables users to sign up, log in, and access a
 
 ## 📁 Project Structure
 
-├── index.js # Entry point – sets up the Express server
-├── db.js # MySQL connection configuration
-├── routes/
-│ └── auth.js # Handles signup, login, and logout routes
-├── views/
-│ ├── home.hbs # Home page template
-│ ├── login.hbs # Login page template
-│ ├── register.hbs # Registration page template
-│ └── profile.hbs # Protected profile page
-├── public/
-│ ├── style.css # Custom CSS styles
-│ └── avatar.png # Default user avatar
-├── .env # Environment variables (DB credentials)
-└── package.json # Project metadata and dependencies
+├── index.js # Entry point – sets up the Express server <br>
+├── db.js # MySQL connection configuration<br>
+├── routes/<br>
+│ └── auth.js # Handles signup, login, and logout routes<br>
+├── views/<br>
+│ ├── home.hbs # Home page template<br>
+│ ├── login.hbs # Login page template<br>
+│ ├── register.hbs # Registration page template<br>
+│ └── profile.hbs # Protected profile page<br>
+├── public/<br>
+│ ├── style.css # Custom CSS styles<br>
+│ └── avatar.png # Default user avatar<br>
+├── .env # Environment variables (DB credentials)<br>
+└── package.json # Project metadata and dependencies<br>
